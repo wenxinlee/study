@@ -1,4 +1,4 @@
-branch test  5555555556666666:
+branch test  5555555556666666
 hello world!hello git!
 hello world!hello git!
 hello world!hello git!
@@ -14,5 +14,5 @@ hello world!hello git!
 hello world!hello git!
 hello world!hello git!
 hello world!hello git!
-hello world!hello git!
+hello world!hello git!master
 hello world!hello git!END 
