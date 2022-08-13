@@ -17,6 +17,13 @@ hello world!hello git!master
 hello world!hello git! hot-fix:
 hello world!hello t!END 
 2022/8/12
+<<<<<<< HEAD
 2022/8/12/17:17//协:作者（clone）
 CCCCCCCCCCCCCCCCCCCCCCCCCCC
 2022/8/13/17:08//LiWenxin
+=======
+2022/8/12/17:17//协作者（clone）
+张宜阳修改16：57
+==========
+//wenxinlee 17:47
+>>>>>>> 6d2ceaba173b232c37d1a557729c696c6a762ff9
